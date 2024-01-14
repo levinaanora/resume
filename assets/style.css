@@ -43,3 +43,13 @@ img.icons {
     margin-right: 10px;
     vertical-align: middle;
 }
+@media (min-width: 300px) {
+    .resume-container {
+        width: 90%;
+    }
+}
+@media (min-width: 1200px) {
+    .resume-container {
+        width: 40%;
+    }
+}
